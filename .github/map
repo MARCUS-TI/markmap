@@ -1,0 +1,59 @@
+# Medios de Transmisión en Redes
+
+## 1. Tipos de Conectividad
+### 1.1 Cableada
+  - **Medios de transmisión**:
+    - **Cables de pares metálicos**:
+      - UTP (Unshielded Twisted Pair)
+        - Económico
+        - Fácil de instalar
+        - Sensible a interferencias
+      - STP (Shielded Twisted Pair)
+        - Más protegido contra interferencias
+        - Más rígido y caro
+    - **Cable Coaxial**
+      - Alta resistencia a interferencias
+      - Limitado a bajas velocidades
+    - **Fibra Óptica**:
+      - **Monomodo**
+        - Largas distancias
+        - Alta velocidad (hasta 100 Gbps)
+        - Inmune a interferencias
+      - **Multimodo**
+        - Menor alcance
+        - Utilizado en redes LAN
+### 1.2 Inalámbrica
+  - **Medios de transmisión**:
+    - **Radiofrecuencia**:
+      - Utiliza ondas electromagnéticas
+      - Facilidad de instalación
+      - Velocidad y alcance limitados
+    - **Microondas**
+      - Alta frecuencia
+      - Adecuado para largas distancias
+    - **Infrarrojo**
+      - Corto alcance
+      - Requiere línea de visión directa
+
+## 2. Características Clave
+### 2.1 Velocidad de Transmisión
+  - Fibra Óptica > Cables de Par Trenzado > Coaxial
+### 2.2 Alcance
+  - Fibra Óptica > Cables de Par Trenzado > Inalámbricos
+### 2.3 Coste
+  - UTP < STP < Fibra Óptica
+### 2.4 Inmunidad a Interferencias
+  - Fibra Óptica > STP > UTP
+### 2.5 Facilidad de Instalación
+  - UTP > STP > Fibra Óptica
+
+## 3. Cableado Estructurado
+### 3.1 Definición
+  - Sistema de interconexión organizado para la transmisión de datos
+  - Flexibilidad, escalabilidad y organización
+### 3.2 Actividades para un cableado adecuado
+  - Instalación de canaletas y racks
+  - Tendido y medición de cables
+  - Conectorización de cables (RJ45)
+  - Pruebas de señal
+  - Etiquetado y documentación
